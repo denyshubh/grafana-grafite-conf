@@ -1,0 +1,6 @@
+datasources:
+- name: Local Graphite
+  type: graphite
+  url: http://localhost:8080
+  access: proxy
+  isDefault: true

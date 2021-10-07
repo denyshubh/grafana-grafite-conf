@@ -1,0 +1,6 @@
+logs
+*.sw[op]
+data/
+log/
+.idea/
+*.env
